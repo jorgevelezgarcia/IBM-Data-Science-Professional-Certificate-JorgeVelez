@@ -1,4 +1,4 @@
-# 📊What is Data Science?
+# 📊vWhat is Data Science?
 
 ## 📄 Summary
 This course introduces the field of data science, highlighting its importance in a data-driven world. It covers key topics, explains the role of data scientists, and showcases practical applications of data science in various industries.
