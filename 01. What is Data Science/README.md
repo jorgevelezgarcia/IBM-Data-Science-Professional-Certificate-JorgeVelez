@@ -16,3 +16,5 @@ This course introduces the field of data science, highlighting its importance in
 
 ## 🏆 Certificate of Completion 🚀
 Below is my certificate of completion for the course. Click the image to view the certificate details.
+
+![image](https://github.com/user-attachments/assets/2403369f-c5d0-437c-97de-d8def428ce6d)
