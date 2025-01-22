@@ -23,6 +23,8 @@ This repository serves as a collection of the materials created and used through
 - :white_check_mark: [08. Data Visualization with Python](08.%20Data%20Visualization%20with%20Python/)
 - :white_check_mark: [09. Machine Learning with Python](09.%20Machine%20Learning%20with%20Python/)
 - :white_check_mark: [10. Applied Data Science Capstone](10.%20Applied%20Data%20Science%20Capstone/)
+- :white_check_mark: [11. Generative AI: Elevate your Data Science carreer](11.%20Generative%20AI.%20Elevate%20your%20data%20science%20career/)
+- :white_check_mark: [12. Data Science guide and Interview preparation](12.%20Data%20science%20guide%20and%20interview%20preparation/)
 
 ## 🛠️ Tools
 The following tools were used to complete this certification: <br> <br>
