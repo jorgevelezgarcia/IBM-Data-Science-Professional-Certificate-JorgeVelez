@@ -18,7 +18,7 @@ This repository contains documentation and resources used to complete the certif
 - :white_check_mark: [02. Tools for Data Science](02.%20Tools%20for%20Data%20Science/)
 - :white_check_mark: [03. Data Science Methodology](03.%20Data%20Science%20Methodology)
 - :white_check_mark: [04. Python for Data Science, AI & Development](04.%20Python%20for%20Data%20Science%2C%20AI%20%26%20Development/)
-- :white_check_mark: [05. Python Project for Data Science](05.%20Python%20Project%20for%20Data%20Science/)
+- :white_check_mark: [05. Python Project for Data Science](05.%20Python%20project%20for%20Data%20Science/)
 
 ## 🛠️ Tools
 The following tools were used to complete this certification: <br> <br>
