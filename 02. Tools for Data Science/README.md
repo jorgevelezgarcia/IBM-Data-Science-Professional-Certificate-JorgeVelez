@@ -1,4 +1,4 @@
-# Tools for Data Science
+# 📊 Tools for Data Science
 
 ## 📄 Summary
 This course focuses on the essential tools that data science professionals use in their daily work. It provides hands-on experience with various tools, helping to build a strong foundation for data science projects. From programming environments to version control and cloud-based tools, this course covers a wide range of technologies that are critical for success in the field.
