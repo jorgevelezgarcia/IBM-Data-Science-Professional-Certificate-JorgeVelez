@@ -24,5 +24,5 @@ This course focuses on the essential tools that data science professionals use i
 Below is my certificate of completion for the course. Click the image to view the certificate details.
 
 <p align="middle">
-  <a href="https://coursera.org/share/your_certificate_link"><img src="https://user-images.githubusercontent.com/84391594/152703941-8c1b3e93-7358-4274-8c7d-b152d3132814.png" height="430"></a>
-</p>
+  <a href="https://coursera.org/share/66585c378bd7fefde160c350c10d8271"><img src="https://github.com/user-attachments/assets/c67581e0-6d12-4d33-841f-798c92320777" height="430"></a>
+</p> 
