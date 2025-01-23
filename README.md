@@ -2,8 +2,7 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/jorgevelezgarcia/IBM-Data-Science-Professional-Certificate-JorgeVelez?style=flat)
 ![GitHub language count](https://img.shields.io/github/languages/count/jorgevelezgarcia/IBM-Data-Science-Professional-Certificate-JorgeVelez?style=flat)
 
-[![Header](https://user-images.githubusercontent.com/84391594/152703941-8c1b3e93-7358-4274-8c7d-b152d3132814.png)](https://www.coursera.org/professional-certificates/ibm-data-science)
-
+![Imagen1](https://github.com/user-attachments/assets/73f00c48-baab-446d-9db6-4a17c155cbf1)
 
 ## 📄 About
 
