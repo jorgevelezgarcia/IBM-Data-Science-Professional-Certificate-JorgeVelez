@@ -1,10 +1,11 @@
 # 🧠 Data Science Methodology
 
-<img width="1233" alt="Data science methodology" src="https://github.com/user-attachments/assets/8a0ee04a-ec9a-4654-8f5b-e87ccd6a8a74" />
-
+<img src="https://github.com/user-attachments/assets/3f619696-73e8-4e99-8466-0bd48346489d" alt="Data Science Methodology Foundational" width="200">
 
 ## 📄 Summary  
 This course focuses on teaching the structured approach that data scientists use to tackle real-world problems. It emphasizes two key methodologies: the **Foundational Data Science Methodology** and the **CRISP-DM (Cross-Industry Standard Process for Data Mining)** framework. Through progressive labs and hands-on practice, the course equips learners to think and work like professional data scientists, tackling every stage of the data science workflow.  
+
+<img width="1233" alt="Data science methodology" src="https://github.com/user-attachments/assets/8a0ee04a-ec9a-4654-8f5b-e87ccd6a8a74" />
 
 ## 📑 Main Topics  
 - Defining the business or research problem  
