@@ -1,5 +1,8 @@
 # 📊 What is Data Science?
 
+<img src="https://github.com/user-attachments/assets/363512eb-c9c3-431d-b0c2-c6f50fc9e01b" alt="Data Science Methodology Foundational" width="200">
+
+
 ## 📄 Summary
 This course introduces the field of data science, highlighting its importance in a data-driven world. It covers key topics, explains the role of data scientists, and showcases practical applications of data science in various industries.
 
