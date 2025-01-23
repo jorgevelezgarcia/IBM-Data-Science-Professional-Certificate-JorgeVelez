@@ -1,5 +1,7 @@
 # 🐍 Python Project for Data Science  
 
+<img src="https://github.com/user-attachments/assets/27e17daf-e081-4623-8c03-f47827dcd5f5" alt="Certificate Image" width="200">
+
 ## 📄 Summary  
 This course showcases foundational Python skills for working with real-world data. The key focus is on a hands-on project that involves extracting, analyzing, and visualizing data to develop an interactive dashboard using Python.  
 
