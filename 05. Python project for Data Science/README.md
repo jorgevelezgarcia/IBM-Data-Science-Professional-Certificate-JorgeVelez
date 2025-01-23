@@ -19,3 +19,7 @@ This course showcases foundational Python skills for working with real-world dat
 
 ## 🏆 Certificate of Completion 🚀  
 Below is my certificate of completion for the course. Click the image to verify the certificate details.  
+
+<p align="middle">
+  <a href="https://coursera.org/share/fae915533909ee5e14306a4439d66ae2"><img src="https://github.com/user-attachments/assets/28ebaa4f-c737-488e-b379-a01487de1790" height="430"></a>
+</p>
