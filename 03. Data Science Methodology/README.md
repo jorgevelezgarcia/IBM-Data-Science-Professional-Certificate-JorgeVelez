@@ -24,7 +24,7 @@ This course focuses on teaching the structured approach that data scientists use
 ## 🏆 Certificate of Completion 🚀  
 Below is my certificate of completion for the course. Click the image to verify the certificate details.  
 
-<p align="center">  
-  <a href="YOUR_CERTIFICATE_LINK"><img src="YOUR_IMAGE_LINK" alt="Certificate of Completion" height="400"></a>  
-</p>  
+<p align="middle">
+  <a href="https://coursera.org/share/0067fb95c769d227248f4727e025407b"><img src="https://github.com/user-attachments/assets/8f405240-ac48-499a-bcda-080b5f3f7ebb" height="430"></a>
+</p> 
 
